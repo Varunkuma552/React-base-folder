@@ -1,7 +1,7 @@
 import "./Home.css";
 function Home() {
   return (
-    <div className="home">
+    <div className="home" id ="home">
         <div className="hero">
             <h1>Build Your Future With Us</h1>
 
