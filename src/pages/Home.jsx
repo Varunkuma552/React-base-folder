@@ -1,7 +1,6 @@
 function Home() {
   return (
     <div className="home">
-      <section className="hero">
         <h1>Build Your Future With Us</h1>
 
         <p>
@@ -10,7 +9,6 @@ function Home() {
         </p>
 
         <button>Get Started</button>
-      </section>
     </div>
   );
 }
