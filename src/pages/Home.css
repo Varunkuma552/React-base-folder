@@ -1,0 +1,35 @@
+.home {
+  min-height: 100vh;
+}
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40px;
+  background: #eff1f3;
+}
+
+.hero h1 {
+  font-size: 56px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  max-width: 600px;
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.hero button {
+  padding: 14px 30px;
+  font-size: 16px;
+  border: rgb(46, 44, 41);
+  background-color: rgb(194, 190, 190);
+  border-radius: 6px;
+  cursor: pointer;
+}
