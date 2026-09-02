@@ -9,7 +9,7 @@ function About() {
 
           <p>
             We are a passionate team focused on creating simple,
-            modern and effective digital experiences.
+            modern and effective digital experience.
           </p>
 
           <p>
